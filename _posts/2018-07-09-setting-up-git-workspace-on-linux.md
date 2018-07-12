@@ -35,6 +35,6 @@ $ git config --global merge.conflictstyle diff3
 (Instead of the first command, you may be able to use the simpler `git config --global core.editor "subl -n -w"` as shown in the video, but many students have found this does not work for them.)
 
 #### Restart the terminal
-You'll need to close and re-open the terminal before all your changes take effect.
-Link to [GitHub Gist](https://gist.github.com/akashgiricse/744ef21fc8a81f24e1230feb7af4e3e5)
+You'll need to close and re-open the terminal before all your changes take effect.<br>
+Link to [GitHub Gist](https://gist.github.com/akashgiricse/744ef21fc8a81f24e1230feb7af4e3e5)<br>
 Source [Udacity](https://classroom.udacity.com/courses/ud775)
