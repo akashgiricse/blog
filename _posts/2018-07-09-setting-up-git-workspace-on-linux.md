@@ -21,7 +21,7 @@ If you use Sublime, you can do this by add the following line to your `.bash_pro
 ```
 alias subl="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl"
 ```
-<br>
+
 #### Making Git configurations
 
 Run the following Git configuration commands. The first one will need to be modified if you are using a text editor other than Sublime, or if Sublime is installed in another location for you. See [this page](https://help.github.com/articles/associating-text-editors-with-git/) for the correct command for a couple of other popular text editors. For any other editor, you'll need to enter the command you use to launch that editor from the terminal.
@@ -31,10 +31,10 @@ $ git config --global core.editor "'/Applications/Sublime Text 2.app/Contents/Sh
 $ git config --global push.default upstream
 $ git config --global merge.conflictstyle diff3
 ```
-<br>
+
 (Instead of the first command, you may be able to use the simpler `git config --global core.editor "subl -n -w"` as shown in the video, but many students have found this does not work for them.)
 
 #### Restart the terminal
 You'll need to close and re-open the terminal before all your changes take effect.
-<br>
 Link to [GitHub Gist](https://gist.github.com/akashgiricse/744ef21fc8a81f24e1230feb7af4e3e5)
+Source [Udacity](https://classroom.udacity.com/courses/ud775)
