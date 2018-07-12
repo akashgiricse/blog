@@ -569,10 +569,10 @@ table tfoot td {
   position: relative;
 }
 
-.post, .article-page {
+/*.post, .article-page {
   background-color: #fff;
 }
-
+*/
 ::-moz-selection {
   background: rgba(38, 57, 89, 0.8);
   color: #ffffff;
