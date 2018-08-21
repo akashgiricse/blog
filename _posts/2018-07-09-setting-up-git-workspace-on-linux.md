@@ -32,7 +32,6 @@ $ git config --global push.default upstream
 $ git config --global merge.conflictstyle diff3
 ```
 
-(Instead of the first command, you may be able to use the simpler `git config --global core.editor "subl -n -w"` as shown in the video, but many students have found this does not work for them.)
 
 #### Restart the terminal
 You'll need to close and re-open the terminal before all your changes take effect.<br>
