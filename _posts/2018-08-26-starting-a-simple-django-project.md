@@ -67,3 +67,7 @@ $ python manage.py runserver
 ```
 # Voila!!! Your project is up and running
 ![Django Home page]({{site.baseurl}}/assets/img/django.png)
+
+<br>
+
+Link to [GitHub Gist](https://gist.github.com/akashgiricse/efe626272fc7223f41b2140675f598e3)
