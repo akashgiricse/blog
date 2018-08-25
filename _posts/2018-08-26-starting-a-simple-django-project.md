@@ -47,7 +47,7 @@ $ django-admin startproject demo_app .
 #### 9. Now you should have following file structure
 ```
 .
-├── four_chan
+├── demo_app
 │   ├── __init__.py
 │   ├── settings.py
 │   ├── urls.py
