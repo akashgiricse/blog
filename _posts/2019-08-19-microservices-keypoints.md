@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Microservices Key points"
