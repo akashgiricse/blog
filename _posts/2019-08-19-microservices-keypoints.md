@@ -2,7 +2,7 @@
 layout: post
 title: "Microservices Key points"
 date: 2019-08-19 19:30:20 +0530
-description: From the Book : Building Microservices: Designing Fine-Grained Systems by Sam Newman.
+description: From the Book "Building Microservices" Designing Fine-Grained Systems by Sam Newman.
 img: # Add image post (optional)
 tags: [Notes, Microservices] # add tag
 ---
