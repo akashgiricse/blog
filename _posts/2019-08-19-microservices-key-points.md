@@ -24,4 +24,9 @@ same reason, and separate those things that change for different reasons.”
 	* **Optimizing for Replaceability**
 	
 ### Chapter 2
- * The evolutionary vision for the Architech
+ * **An Evolutionary Vision for the Architect:**
+ 	* The Architect should be just like a town planner just like the game SimCity. A town planner’s role is to look at a multitude of sources of information, and then attempt to optimize the layout of a city to best suit the needs of the citizens today, taking into account future use.
+* **Zoning**:
+	* From the metaphor of the architect as a town planner, zones are areas in the city which are build to do a certain type of job. For example industrian zone, residential zone. In the similar way, zoning in microservices are our service boundaries, or perhaps coarse-grained groups of services. As an architect we need to think more about what happens between the zones than inside the zone.
+	* The guideline is to "be worried about what happens between the boxes, and be liberal in what happens inside."
+* 
