@@ -2,14 +2,14 @@ title: Akash Giri | Blog
 description: > # this means to ignore newlines until "baseurl:"
   Hello, I am Akash Giri, welcome to my blog. I write about technical things here
   and some random stuff that I find useful.
-permalink: ':title/'
+permalink: ":title/"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://akashgiri.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Akash Giri # add your name
-author-img: profile.jpg # add your photo
+author-img: profile.jpeg # add your photo
 about-author: I am a web developer focusing on back-end development. Always hungry to keep learning. # add description
 social-twitter: akashgiricse # add your Twitter handle
 # social-githubpage: akashgiricse # add your root github page handle
