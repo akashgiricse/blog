@@ -1155,6 +1155,10 @@ footer .copyright {
   font-size: 12px;
 }
 
+.post .post-content .post-tag {
+  padding-top: 10px;
+  padding-left: 0px;
+}
 
 .post .post-content .post-tag a {
   text-decoration: none;
